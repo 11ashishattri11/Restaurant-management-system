@@ -1,8 +1,5 @@
-                                                                       // A Restaurant Management Project
-                                                                     // Made By -  Aman Kumar (2K20/MC/19)
-                                                                   //           Ashish Attri   (2K20/MC/33)
-#include <iostream>
-#include <string.h>
+                                                                     
+#include <bits/stdc++.h>
  
 using namespace std;
  
